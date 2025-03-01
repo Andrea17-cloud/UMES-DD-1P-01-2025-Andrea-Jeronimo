@@ -1,0 +1,15 @@
+header{
+    background-color: white;
+    display: flex;
+}
+
+body{
+    background-color: #e0e0e0;
+}
+
+footer{
+    background-color: black;
+    color: white;
+    display: flex;
+}
+
